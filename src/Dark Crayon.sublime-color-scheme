@@ -1005,7 +1005,7 @@
     },
     {
       "name":"[Markdown] Link Punctuation",
-      "scope":"text.html.markdown punctuation.definition.link.begin, text.html.markdown punctuation.definition.link.end, text.html.markdown punctuation.definition.image.begin, text.html.markdown punctuation.definition.image.end, text.html.markdown punctuation.definition.constant.begin, text.html.markdown punctuation.definition.constant.end, text.html.markdown meta.link.inline.metadata punctuation.definition.metadata.begin, text.html.markdown meta.link.inline.metadata punctuation.definition.metadata.end",
+      "scope":"text.html.markdown punctuation.definition.link.begin, text.html.markdown punctuation.definition.link.end, text.html.markdown punctuation.definition.image.begin, text.html.markdown punctuation.definition.image.end, text.html.markdown punctuation.definition.constant.begin, text.html.markdown punctuation.definition.constant.end, text.html.markdown meta.link.inline.metadata punctuation.definition.metadata.begin, text.html.markdown meta.link.inline.metadata punctuation.definition.metadata.end, text.html.markdown meta.image.inline.metadata punctuation.definition.metadata.begin, text.html.markdown meta.image.inline.metadata punctuation.definition.metadata.end",
       "foreground":"var(markdown_link_punctuation)"
     },
     {
