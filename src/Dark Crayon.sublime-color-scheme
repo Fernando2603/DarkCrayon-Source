@@ -133,6 +133,7 @@
     "css_rgb_value":"var(color_lavender)",
     "css_property_value":"var(color_pastel_green)",
     "css_pseudo_class":"var(color_sky_blue)",
+    "css_path_separator":"var(color_straw)",
     "css_color_names":"var(color_sky_blue)",
     "scss_property_value": "var(color_pastel_green)",
     "scss_function_call_arguments": "var(color_sky_blue)",
@@ -833,6 +834,11 @@
       "name":"[CSS] Pseudo Class",
       "scope":"source.css entity.other.pseudo-class",
       "foreground":"var(css_pseudo_class)"
+    },
+    {
+      "name":"[CSS] Path Separator",
+      "scope":"source.css meta.string punctuation.separator.path",
+      "foreground":"var(css_path_separator)"
     },
     {
       "name":"[CSS] Color Names",

@@ -626,6 +626,11 @@
 			"foreground": "var(color_sky_blue)"
 		},
 		{
+			"name": "[CSS] Path Separator",
+			"scope": "source.css meta.string punctuation.separator.path",
+			"foreground": "var(color_straw)"
+		},
+		{
 			"name": "[CSS] Color Names",
 			"scope": "source.css support.constant.color.w3c-standard-color-name",
 			"foreground": "var(color_sky_blue)",
